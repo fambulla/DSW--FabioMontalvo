@@ -12,17 +12,17 @@ body {
 
 p {
   color: #524c56;
-  font-size: 160%;
-  line-height: 155%;
-  padding: 3%;
-  text-indent: 2%;
+  font-size: 150%;
+  line-height: 145%;
+  padding: 4%;
+  text-indent: 3%;
   text-align: justify;
 }
 
 h3 {
-  font-size: 175%;
-  line-height: 155%;
-  font-weight: 500;
+  font-size: 165%;
+  line-height: 145%;
+  font-weight: 600;
   color: #524c56;
   text-align: center;
   text-transform: uppercase;
